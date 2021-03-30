@@ -1,0 +1,30 @@
+input
+0 means the root.
+small l means current new node.
+r means right nodes.
+
+so this is the data.
+0
+l
+1
+l
+3
+l
+5
+l
+ur
+l
+7
+l
+uur
+l
+9
+l
+13
+l
+ur
+l
+11
+
+	
+	
